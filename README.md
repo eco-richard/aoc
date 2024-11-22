@@ -1,3 +1,3 @@
 # Advent of Code
 
-Repo for [Advent of Code](adventofcode.com)
+Repository for [Advent of Code](adventofcode.com)
